@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.pem
+*.jpeg
+*.jpg
+*.png
+*.ini
+/__pycache__/
+chat_room/migrations/
+*.py[cod]
+.idea/
+*.log
+/venv/
+*.sqlite3
+rest_vue_app/local.py
+!*static/images/*
+!*static/admin/img/*
